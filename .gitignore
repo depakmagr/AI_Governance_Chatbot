@@ -1,0 +1,8 @@
+*.json 
+
+*__pycache__/
+
+venv/
+
+PDF_FILES/*AI_Goverment_Services/*.pdf
+PDF_FILES/*AI_Goverment_Services-20250822T030546Z-1-001.zip
